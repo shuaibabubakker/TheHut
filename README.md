@@ -1,10 +1,10 @@
-#TheHut
+# TheHut
 
-##Problem Statement
+## Problem Statement
 
 Amit has been frequenting Thalassery Hut for lunch since he has joined college. An issue he always faces is the unavailability of seats during peak lunch hours due to which he either has to spend a long time waiting or he has to eat somewhere else. Implement an efficient solution for Amit’s problem.
 
-##The Solution
+## The Solution
 
 The purpose of this prototype is to propose and test a model which solves the waiting time delay in the Hut. This model will provide a framework for evaluating the impact of customer reaction to the wait experience.
 
