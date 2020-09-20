@@ -15,3 +15,8 @@ So we have taken the virtual queueing system to take into the solution. It can b
 Hence we can provide the time alloted to them efficiently, and people can come or book at a convenient and available time.Thereby efficiently solving the customer satisfaction.
 
 The prototype is given here above in three pictures. Kindly look it.
+
+1.Main
+2.Booking
+3.Payment
+
